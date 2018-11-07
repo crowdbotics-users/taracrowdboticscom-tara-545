@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT taracrowdboticscom_tara_545.wsgi:application
